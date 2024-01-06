@@ -1,0 +1,11 @@
+*.pyc
+*.o
+*~
+*.pybuild
+build
+.vscode
+*.so
+*.egg-info
+dist
+venv
+.pc
